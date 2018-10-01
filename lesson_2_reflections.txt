@@ -22,7 +22,8 @@ organized? How would branches help?
 	Branches may be helpful when adding a new experimental feature, or adding a new
 	feature. They allow you to have multiple versions of your repository at once.
 
-How do the diagrams help you visualize the branch structure?
+20. How do the diagrams help you visualize the branch structure?
+	They show you where you created new branches and what branches come from what.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

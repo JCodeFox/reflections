@@ -25,8 +25,10 @@ organized? How would branches help?
 20. How do the diagrams help you visualize the branch structure?
 	They show you where you created new branches and what branches come from what.
 
-What is the result of merging two branches together? Why do we represent it in
+25. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	It turns the two branches into one.
+	We show the diagram that way to show were branches were made and when they were merged.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

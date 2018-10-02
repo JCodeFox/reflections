@@ -30,5 +30,8 @@ the diagram the way we do?
 	It turns the two branches into one.
 	We show the diagram that way to show were branches were made and when they were merged.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+32. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	The automatic will be faster and easier, but may cause bugs and errors.
+	While the manual is harder and takes time, it will allow you to prevent bugs
+	in the code.

@@ -27,10 +27,11 @@ stored locally?
     It allows you to merge them on your own computer and then push them up
     to github.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+25. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You could collaborate by just copying the project back and forth, but this
+    would be much harder than using git or github.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

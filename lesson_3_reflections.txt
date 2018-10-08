@@ -21,10 +21,11 @@ use one instead of another?
     I would use a fork to copy someone elses repository on github
     to my own acount on github.
 
-What is the benefit of having a copy of the last known state of the remote
+22. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It allows you to merge them on your own computer and then push them up
+    to github.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

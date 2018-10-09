@@ -33,7 +33,10 @@ and what would be harder?
     You could collaborate by just copying the project back and forth, but this
     would be much harder than using git or github.
 
-When would you want to make changes in a separate branch rather than directly in
+31. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes to a separate branch when experimenting with
+    new features that could break the file or program.
+    The seperate branch approach allows you to make changes without overwriting things.
+    While a single branch approach just makes it easier to know where files are.
